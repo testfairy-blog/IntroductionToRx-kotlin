@@ -1,2 +1,2 @@
-# IntroductionToRx-kotlin
-Rx examples for beginners
+# IntroductionToRx
+Rx examples written in Kotlin. Check out *MainActivity.kt* file.
